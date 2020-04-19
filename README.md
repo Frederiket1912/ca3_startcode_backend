@@ -2,6 +2,27 @@
 
 [![Build Status](https://travis-ci.com/Frederiket1912/ca3_startcode_backend.svg?branch=master)](https://travis-ci.com/Frederiket1912/ca3_startcode_backend)
 
+**Login credentials til frontend:**
+
+user = 
+<br>
+username: user 
+<br>
+password: test123
+<br><br>
+admin = 
+<br>
+username: admin
+<br>
+password: test123
+<br><br>
+both = 
+<br>
+username: user_admin
+<br>
+password: test123
+<br>
+
 **Opsætningning af pipeline**
 
 1) Clone dette projekt.
